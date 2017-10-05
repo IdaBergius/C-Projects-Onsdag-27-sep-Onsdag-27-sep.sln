@@ -8,6 +8,8 @@ namespace Övning_7
 {
     class Program
         
+        //sista blan
+
     {
         static public int tal1;
         static public int tal2;
